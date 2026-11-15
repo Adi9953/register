@@ -3,9 +3,7 @@
     "username": "adi9953",
     "email": "info.cclaas@gmail.com"
   },
-  "records": {
-    "A": [
-      "216.198.79.1"
-    ]
-  }
+ "records": {
+        "CNAME": "11caac69.portfolio-7gc.pages.dev"
+    }
 }
